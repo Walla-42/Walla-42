@@ -8,7 +8,7 @@
 - 🗒️ My current projects:  
 [![DNA_pipeline](https://img.shields.io/badge/Gene_Search-v1.0-blue.svg)](https://github.com/walla-42/Gene_Search)  
 [![HousingPricePredictor](https://img.shields.io/badge/HomePriceComparison-v1.0-green.svg)](https://github.com/SnoopLawg/HomePriceComparison.git)
-
+[![DrugDiscoveryML](https://img.shields.io/badge/DrugDiscoveryML-v1.0-red.svg)](https://github.com/walla-42/DrugDiscoveryML)  
 
  
 <!---
