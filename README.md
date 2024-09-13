@@ -7,9 +7,9 @@
 
 - 🗒️ My current projects:  
 [![DNA_pipeline](https://img.shields.io/badge/Gene_Search-v1.0-blue.svg)](https://github.com/walla-42/Gene_Search)  
-[![DrugDiscoveryML](https://img.shields.io/badge/DrugDiscoveryML-v1.0-red.svg)](https://github.com/walla-42/DrugDiscoveryML)  
-[![GeneAnalyzer](https://img.shields.io/badge/GeneAnalyzer-v2.0-green.svg)](https://github.com/walla-42/GeneAnalyzer)  
-[![HousingPricePredictor](https://img.shields.io/badge/HomePriceComparison-v1.0-green.svg)](https://github.com/SnoopLawg/HomePriceComparison.git)  
+[![DrugDiscoveryML](https://img.shields.io/badge/DrugDiscoveryML-v0.8-red.svg)](https://github.com/walla-42/DrugDiscoveryML)  
+[![GeneAnalyzer](https://img.shields.io/badge/GeneAnalyzer-v2.1-green.svg)](https://github.com/walla-42/GeneAnalyzer)  
+[![HousingPricePredictor](https://img.shields.io/badge/HomePriceComparison-v0.4-green.svg)](https://github.com/SnoopLawg/HomePriceComparison.git)  
  
 <!---
 Walla-42/Walla-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
