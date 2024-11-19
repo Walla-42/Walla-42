@@ -10,7 +10,6 @@
 [![DrugDiscoveryML](https://img.shields.io/badge/DrugDiscoveryML-v0.8-red.svg)](https://github.com/walla-42/DrugDiscoveryML)  
 [![GeneAnalyzer](https://img.shields.io/badge/GeneAnalyzer-v2.1-green.svg)](https://github.com/walla-42/GeneAnalyzer)  
 [![HousingPricePredictor](https://img.shields.io/badge/HomePriceComparison-v0.4-green.svg)](https://github.com/SnoopLawg/HomePriceComparison.git)  
- ![Java]()
 <!---
 Walla-42/Walla-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
