@@ -1,3 +1,4 @@
+
 ## 🌱 I’m currently learning:
  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a><a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a><a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 
@@ -10,6 +11,15 @@
 [![DNA_pipeline](https://img.shields.io/badge/Gene_Search-v1.0-blue.svg)](https://github.com/walla-42/Gene_Search)  
 [![GeneAnalyzer](https://img.shields.io/badge/GeneAnalyzer-v2.1-green.svg)](https://github.com/walla-42/GeneAnalyzer)  
 [![HousingPricePredictor](https://img.shields.io/badge/HomePriceComparison:_Under_Private_Repository-v0.4-green.svg)](https://github.com/SnoopLawg/HomePriceComparison.git) 
+
+
+<div align="center">
+    <img width="" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true" alt="githug stats" />
+    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <br />
+  <br />
+</div>
+
 <!---
 Walla-42/Walla-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
