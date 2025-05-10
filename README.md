@@ -14,13 +14,14 @@
 
 
 <div align="center">
-    <img width="" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true" alt="githug stats" />
-    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-  <br />
+   <!-- <img width="" height="180px" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=false&count_private=true&hide_title=true&hide_rank=true" alt="githug stats" />
+    <br />
+ -->
+    <img width=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact" />
   <br />
 </div>
 
 <!---
 Walla-42/Walla-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
