@@ -42,7 +42,7 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 
 <h3>🧪 Research & Current Work:</h3>
 
-- 🔬 I work in **Dr. David Hansens Alzheimers Research Lab** at BYU, where we study molecular mechanisms related to the progression of Alzheimer's disease.
+- 🔬 I work in **Dr. David Hansen's Alzheimer's Research Lab** at BYU, where we study molecular mechanisms related to the progression of Alzheimer's disease.
 - 📊 I'm currently developing a **web app** to help our lab:
   - Upload and visualize experimental data
   - Create publication-ready figures
@@ -61,13 +61,13 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 
 ---
 
-<h3 style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" style="height: 28px; top: 5px;" />
-  <span>Stats & Activity</span>
+<h3 style="display: flex; align-items: center; gap: 12px; margin: 0;">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" style="height: 18px;" /> Stats
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walla-42&theme=dark" alt="mystreak"/>
 </div>
 
 <!--
