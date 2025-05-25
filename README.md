@@ -1,6 +1,8 @@
-<h2>👋 Hi, I'm Walla-42</h2>
+<h2>👋 Hi, I'm Walla-42 </h2>
 
-I'm a bioinformatics and biochemistry researcher at **Brigham Young University**. My work focuses on developing tools to accelerate biological discovery by combining **software development** with **experimental biology**. I'm passionate about making complex biological data accessible and interpretable.
+I'm a bioinformatics and biochemistry researcher at **Brigham Young University**. My work focuses on developing tools to accelerate biological discovery by combining **software development** with **experimental biology**. I'm passionate about making complex biological data accessible and interpretable. 
+
+
 
 ---
 
@@ -68,6 +70,7 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walla-42&theme=dark" alt="mystreak"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true"/>
 </div>
 
 <!--
