@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Walla-42 </h2>
+<h2>Hi, I'm Walla-42 </h2>
 
 I'm a bioinformatics and biochemistry researcher at **Brigham Young University**. My work focuses on developing tools to accelerate biological discovery by combining **software development** with **experimental biology**. I'm passionate about making complex biological data accessible and interpretable. 
 
@@ -6,7 +6,7 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 
 ---
 
-<h3>🌱 Currently Learning & Practicing:</h3>
+<h3>Currently Learning & Practicing:</h3>
 
 <p>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
@@ -18,7 +18,7 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 
 ---
 
-<h3>👨‍💻 What I currently work with:</h3>
+<h3>What I currently work with:</h3>
 
 <p>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" /></a>
@@ -29,7 +29,7 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 <!--
 ---
 
-<h3>🧠 Packages I Work With:</h3>
+<h3>Packages I Work With:</h3>
 
 <p>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" /></a>
@@ -42,7 +42,7 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 ---
 -->
 
-<h3>🧪 Research & Current Work:</h3>
+<h3>Research & Current Work:</h3>
 
 - 🔬 I work in **Dr. David Hansen's Alzheimer's Research Lab** at BYU, where we study molecular mechanisms related to the progression of Alzheimer's disease.
 - 📊 I'm currently developing a **web app** to help our lab:
@@ -52,7 +52,7 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 
 ---
 
-<h3>📁 Selected Projects:</h3>
+<h3>Selected Projects:</h3>
 
 [![Spending Analyzer Tool](https://img.shields.io/badge/SpendingAnalyzerTool-v0.9_beta-red.svg)](https://github.com/walla-42/SpendingAnalyzerTool)  
 [![DNA_pipeline](https://img.shields.io/badge/Gene_Search-v1.0-blue.svg)](https://github.com/walla-42/Gene_Search)  
