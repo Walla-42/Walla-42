@@ -54,9 +54,10 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 
 <h3>Selected Projects:</h3>
 
-[![Spending Analyzer Tool](https://img.shields.io/badge/SpendingAnalyzerTool-v0.9_beta-red.svg)](https://github.com/walla-42/SpendingAnalyzerTool)  
+[![Multiplayer Chess](https://img.shields.io/badge/MultiplayerChess-v2.0-green.svg)](https://github.com/walla-42/MultiplayerChess)   
+[![GeneAnalyzer](https://img.shields.io/badge/GeneAnalyzer-v2.1-green.svg)](https://github.com/walla-42/GeneAnalyzer)    
+[![Spending Analyzer Tool](https://img.shields.io/badge/SpendingAnalyzerTool-v0.9_beta-red.svg)](https://github.com/walla-42/SpendingAnalyzerTool)   
 [![DNA_pipeline](https://img.shields.io/badge/Gene_Search-v1.0-blue.svg)](https://github.com/walla-42/Gene_Search)  
-[![GeneAnalyzer](https://img.shields.io/badge/GeneAnalyzer-v2.1-green.svg)](https://github.com/walla-42/GeneAnalyzer)
 
 <!-- If/when public -->
 <!-- [![Lab Data App](https://img.shields.io/badge/Lab_Data_App-in_progress-orange.svg)](https://github.com/walla-42/LabDataApp) -->
