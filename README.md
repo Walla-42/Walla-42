@@ -9,7 +9,6 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 <h3>Currently Learning & Practicing:</h3>
 
 <p>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" /></a>
@@ -22,7 +21,7 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 
 <p>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" /></a>
-  <a href="https://www.learncpp.com/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
   <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" /></a>
 </p>
 
@@ -63,14 +62,14 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 <!-- [![Lab Data App](https://img.shields.io/badge/Lab_Data_App-in_progress-orange.svg)](https://github.com/walla-42/LabDataApp) -->
 
 ---
-
+<!--
 <h3 style="display: flex; align-items: center; gap: 12px; margin: 0;">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" style="height: 18px;" /> Stats
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" style="height: 30px;" /> Stats
 </h3>
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact" />
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walla-42&theme=dark" alt="mystreak"/> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walla-42&theme=dark" alt="mystreak"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true"/> 
 </div> -->
 
