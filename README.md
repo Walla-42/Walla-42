@@ -55,7 +55,7 @@ I'm a bioinformatics and biochemistry researcher at **Brigham Young University**
 <h3>Selected Projects:</h3>
 
 [![Multiplayer Chess](https://img.shields.io/badge/MultiplayerChess-v2.0-green.svg)](https://github.com/walla-42/MultiplayerChess)   
-[![GeneAnalyzer](https://img.shields.io/badge/GeneAnalyzer-v2.1-green.svg)](https://github.com/walla-42/GeneAnalyzer)    
+[![GeneAnalyzer2](https://img.shields.io/badge/GeneAnalyzer2-v1.0-green.svg)](https://github.com/walla-42/GeneAnalyzer2)    
 [![Spending Analyzer Tool](https://img.shields.io/badge/SpendingAnalyzerTool-v0.9_beta-red.svg)](https://github.com/walla-42/SpendingAnalyzerTool)   
 [![DNA_pipeline](https://img.shields.io/badge/Gene_Search-v1.0-blue.svg)](https://github.com/walla-42/Gene_Search)  
 
