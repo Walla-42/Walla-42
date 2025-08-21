@@ -47,11 +47,11 @@ My focus is on making complex biological data **accessible**, **interpretable**,
 | [SpendingAnalyzerTool](https://github.com/walla-42/SpendingAnalyzerTool) | ![Beta](https://img.shields.io/badge/beta-e65100?&logoColor=white) | ![v0.9.0-beta](https://img.shields.io/badge/v0.9.0-blue?style=flat) | Personal finance data visualization and insights.
 | [GeneSearch](https://github.com/walla-42/Gene_Search) | ![Stable](https://img.shields.io/badge/stable-2e7d32?e&logoColor=white) | ![v1.0.0](https://img.shields.io/badge/v1.0.0-blue?style=flat) | Sequence search pipeline for targeted gene retrieval.
 
-<!--
+## Github Stats
+
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=false" /> <!-- add &layout=compact to show compact layout-->
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walla-42&theme=dark" alt="mystreak"/> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true"/> 
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true"/> -->
 </div> 
--->
 
