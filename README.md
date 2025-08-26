@@ -1,8 +1,6 @@
 ## Hi, I'm Walla-42
 
 I'm a **Bioinformatics and Biochemistry Researcher** at Brigham Young University.  
-I develop software tools that accelerate biological discovery by combining **computational analysis**, **data visualization**, and **experimental biology**.  
-My focus is on making complex biological data **accessible**, **interpretable**, and **actionable**.
 
 ---
 
