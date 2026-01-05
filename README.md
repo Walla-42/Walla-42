@@ -50,8 +50,9 @@ I'm a **Bioinformatics and Biochemistry Researcher** at Brigham Young University
 ## Github Stats
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=false" /> <!-- add &layout=compact to show compact layout-->
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walla-42&theme=dark" alt="mystreak"/> 
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=false" /> <!-- add &layout=compact to show compact layout-->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walla-42&theme=dark" alt="mystreak"/>  -->
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true"/> -->
+  <img align="center" src="https://githubcard.com/walla-42.svg?d=FLXBwYsH"/>
 </div> 
 
