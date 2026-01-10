@@ -43,7 +43,7 @@ I'm a **Bioinformatics and Biochemistry Researcher** at Brigham Young University
 | [Multiplayer Chess](https://github.com/walla-42/MultiplayerChess) | ![Stable](https://img.shields.io/badge/stable-2e7d32?e&logoColor=white) | ![v1.1.0](https://img.shields.io/badge/v1.1.0-blue?style=flat) | Real-time chess with WebSocket-based multiplayer.
 | [GeneAnalyzer2](https://github.com/walla-42/GeneAnalyzer2) | ![Stable](https://img.shields.io/badge/stable-2e7d32?&logoColor=white) | ![v1.1.0](https://img.shields.io/badge/v1.1.0-blue?style=flat) | Bioinformatics CLI tool for DNA/RNA/protein analysis.
 | [GeneSearch](https://github.com/walla-42/Gene_Search) | ![Stable](https://img.shields.io/badge/stable-2e7d32?e&logoColor=white) | ![v1.0.0](https://img.shields.io/badge/v1.0.0-blue?style=flat) | Splice unaware gene search.
-| [BioMatchGames](https://github.com/walla-42/startup) | ![Beta](https://img.shields.io/badge/beta-e65100?&logoColor=white) | ![v0.4.0](https://img.shields.io/badge/v0.4.0-blue?style=flat) | Biology Game Website
+| [BioMatchGames](https://github.com/walla-42/startup) | ![Stable](https://img.shields.io/badge/stable-2e7d32?e&logoColor=white) | ![v1.1.0](https://img.shields.io/badge/v0.4.0-blue?style=flat) | Biology Game Website
 | [SpendingAnalyzerTool](https://github.com/walla-42/SpendingAnalyzerTool) | ![Beta](https://img.shields.io/badge/beta-e65100?&logoColor=white) | ![v0.9.0-beta](https://img.shields.io/badge/v0.9.0-blue?style=flat) | Personal finance data visualization and insights.
 
 
