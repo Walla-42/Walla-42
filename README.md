@@ -47,12 +47,15 @@ I'm a **Bioinformatics and Biochemistry Researcher** at Brigham Young University
 | [Clinical Cytometry Dashboard](https://github.com/walla-42/Clinical_cytometry_dashboard) | ![Stable](https://img.shields.io/badge/stable-2e7d32?e&logoColor=white) | ![v1.1.0](https://img.shields.io/badge/v1.1.0-blue?style=flat) | web application to analyze clinical cytometry data.
 <!--| [SpendingAnalyzerTool](https://github.com/walla-42/SpendingAnalyzerTool) | ![Beta](https://img.shields.io/badge/beta-e65100?&logoColor=white) | ![v0.9.0-beta](https://img.shields.io/badge/v0.9.0-blue?style=flat) | Personal finance data visualization and insights.-->
 
-## Github Stats
+<!-- ## Github Stats -->
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walla-42&theme=dark&show_icons=true&hide_border=false" /> <!-- add &layout=compact to show compact layout-->
+  
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Walla-42&theme=dark" alt="mystreak"/>  -->
+  
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walla-42&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true"/> -->
-  <img align="center" src="https://githubcard.com/walla-42.svg?d=FLXBwYsH"/>
-</div> 
+  
+  <!-- <img align="center" src="https://githubcard.com/walla-42.svg?d=FLXBwYsH"/> -->
+</div>
 
