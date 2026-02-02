@@ -1,6 +1,6 @@
 ## Hi, I'm Walla-42
 
-I'm a **Bioinformatics and Biochemistry Researcher** at Brigham Young University.  
+I'm a **Bioinformatics Developer and Analyst** at Brigham Young University.  
 
 ---
 
