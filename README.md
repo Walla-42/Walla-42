@@ -1,9 +1,3 @@
-## Hi, I'm Walla-42
-
-I'm a Software Engineer at Sameday AI  
-
----
-
 ## Technical Skills
 
 **Programming & Development**
