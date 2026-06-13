@@ -28,6 +28,7 @@
 ![Deprecated](https://img.shields.io/badge/deprecated-b71c1c?&logoColor=white)
 -->
 
+<!--
 
 ## Selected Projects
 
@@ -39,7 +40,8 @@
 | [GeneSearch](https://github.com/walla-42/Gene_Search) | ![Stable](https://img.shields.io/badge/stable-2e7d32?e&logoColor=white) | ![v1.0.0](https://img.shields.io/badge/v1.0.0-blue?style=flat) | Splice unaware gene search.
 | [BioMatchGames](https://github.com/walla-42/startup) | ![Stable](https://img.shields.io/badge/stable-2e7d32?e&logoColor=white) | ![v1.1.0](https://img.shields.io/badge/v1.1.0-blue?style=flat) | Biology Game Website
 | [Clinical Cytometry Dashboard](https://github.com/walla-42/Clinical_cytometry_dashboard) | ![Stable](https://img.shields.io/badge/stable-2e7d32?e&logoColor=white) | ![v1.1.0](https://img.shields.io/badge/v1.1.0-blue?style=flat) | web application to analyze clinical cytometry data.
-<!--| [SpendingAnalyzerTool](https://github.com/walla-42/SpendingAnalyzerTool) | ![Beta](https://img.shields.io/badge/beta-e65100?&logoColor=white) | ![v0.9.0-beta](https://img.shields.io/badge/v0.9.0-blue?style=flat) | Personal finance data visualization and insights.-->
+| [SpendingAnalyzerTool](https://github.com/walla-42/SpendingAnalyzerTool) | ![Beta](https://img.shields.io/badge/beta-e65100?&logoColor=white) | ![v0.9.0-beta](https://img.shields.io/badge/v0.9.0-blue?style=flat) | Personal finance data visualization and insights.
+-->
 
 <!-- ## Github Stats -->
 
